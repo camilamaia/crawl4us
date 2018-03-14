@@ -6,9 +6,9 @@ Crawl4us
 Installation
 ------------
 
-Crawl4us is available on `PyPI <https://pypi.python.org/pypi/pyflakes>`_ so it can be installed via `pip <https://pypi.python.org/pypi/pip>`_
+Crawl4us is available on `PyPI <https://pypi.python.org/pypi/pyflakes>`_ so it can be installed via `pip <https://pypi.python.org/pypi/pip>`_ ::
 
-  $ pip install --upgrade pyflakes
+    $ pip install crawl4us
   
 Usage
 ------------
@@ -17,7 +17,7 @@ Usage
 
     import crawl4us
     
-    #TODO
+    # TODO
 
 
 Changelog
