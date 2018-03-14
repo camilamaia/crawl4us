@@ -2,7 +2,8 @@
 Crawl4us
 ========
 
-
+A Python web crawler looking wildly for tables 🕵️‍♀️ 
+ 
 Installation
 ------------
 
