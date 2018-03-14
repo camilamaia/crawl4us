@@ -10,8 +10,8 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='crawl4us',
-    version='0.1.0',
-    description='A Python scraping and web crawling module',
+    version='0.1.1',
+    description='A Python web crawler looking wildly for tables',
     long_description=long_description,
     url='https://github.com/camilamaia/crawl4us',
     author='Camila Maia',
