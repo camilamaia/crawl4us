@@ -12,10 +12,12 @@ Crawl4us is available on `PyPI <https://pypi.python.org/pypi/pyflakes>`_ so it c
   
 Usage
 ------------
-.. code-block:: python
-  import crawl4us
 
-  # TODO
+.. code:: python
+
+    import crawl4us
+    
+    #TODO
 
 
 Changelog
