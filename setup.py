@@ -10,7 +10,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='crawl4us',
-    version='0.1.1',
+    version='0.1.2',
     description='A Python web crawler looking wildly for tables',
     long_description=long_description,
     url='https://github.com/camilamaia/crawl4us',
@@ -29,11 +29,12 @@ setup(
     # packages=find_packages(exclude=['contrib', 'docs', 'tests']),  # Required
     install_requires=[
         'beautifulsoup4',
-        'requests'
+        'requests',
+        'pandas'
     ],
     extras_require={  # Optional
-        'dev': ['pylint', 'flake8'],
-        'test': ['coverage'],
+        'dev': ['pylint'],
+        'test': ['pytest'],
     },
 
     project_urls={
