@@ -10,7 +10,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='crawl4us',
-    version='0.1.2',
+    version='0.1.3',
     description='A Python web crawler looking wildly for tables',
     long_description=long_description,
     url='https://github.com/camilamaia/crawl4us',
