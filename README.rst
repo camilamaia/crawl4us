@@ -23,3 +23,8 @@ Usage
 
 Changelog
 ---------
+
+CONTRIBUTING
+---------
+
+Do you want to contribute to crawl4us? Please, take a look in this document: https://github.com/camilamaia/crawl4us/blob/master/CONTRIBUTING.rst
