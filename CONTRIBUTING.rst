@@ -20,8 +20,15 @@ Clone and install crawl4us lib:
   $ pip install -r requirements-dev.txt
   $ pip install -r requirements.txt
   
+Branching
+------------
+
+Please, create a branch for your changes and after finish them, create a pull request of it.
+
 Deploy
 ------------
+
+To be able to deploy this lib, you need to be a collaborator of Crawl4us on https://pypi.org/project/crawl4us/ . Please ask access for it.
 
 Install requirements:
 
